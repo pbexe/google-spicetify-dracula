@@ -1,7 +1,11 @@
-# google-spicetify
+# google-spicetify-dracula
 Spotify with Google style
 
 ## Previews
+
+#### Dracula
+<img src="https://i.imgur.com/JERZla4.png" alt="img" align="center" width="600px">
+
 #### Base
 <img src="https://i.imgur.com/qguGx46.png" alt="img" align="center" width="600px">
 
